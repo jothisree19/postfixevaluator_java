@@ -1,4 +1,4 @@
-class Solutions {
+class Solution {
 
     public boolean canJump(int[] nums) {
         int maxReach = 0;
@@ -20,5 +20,3 @@ class Solutions {
         System.out.println(obj.canJump(nums));
     }
 }
-
-
